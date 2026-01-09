@@ -1,12 +1,6 @@
 # Olá👋
 <p>Sou um desenvolvedor especializado em front-end com conhecimentos em back-end. Tenho experiência com React, Next, TypeScript e JavaScript, mas não me limito apenas a isso. Conheço os fundamentos do front-end e sou focado em performance, possibilitando um maior desempenho e menor consumo de dados.</p>
 
-
-
-<div style="display:inline">
-  <a href="https://beacons.ai/diogo-Peixoto">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Peixoto&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
   
   # Skills 🚀 
   
