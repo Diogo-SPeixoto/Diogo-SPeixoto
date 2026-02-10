@@ -1,7 +1,7 @@
 # Olá👋
 <p>Sou um desenvolvedor front-end com 4 anos de experiência na entrega de aplicações web e mobile escaláveis ​​e focadas no usuário. Minha expertise inclui React.js, React-Native, Node, TypeScript e gerenciamento de estado moderno (Redux, Context API, Zustand, MobX), complementada por sólidas habilidades em design de UI/UX, desenvolvimento responsivo , integração de APIs e pipeline de CI/CD.
 
-Histórico na entrega de interfaces de alta qualidade para milhares de usuários, aumentando ta performance em até 60%. Experiência em Design Systems, aplicações mobile-first, layouts responsivos e refatoração de código legado. Atuação em times ágeis com Clean Code, SOLID, Design Patterns, CI/CD e testes unitários. Vivência em métricas de produto, comportamento do usuário, integração com APIs e colaboração com times de produto e backend.</p>
+Histórico na entrega de interfaces de alta qualidade para milhares de usuários, aumentando ta performance em até 90%. Experiência em Design Systems, aplicações mobile-first, layouts responsivos e refatoração de código legado. Atuação em times ágeis com Scrum e Kanban. Vivência em métricas de produto, comportamento do usuário, integração com APIs e colaboração com times de produto e backend.</p>
 
   
   # Skills 🚀 
