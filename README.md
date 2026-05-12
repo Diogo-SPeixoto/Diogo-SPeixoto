@@ -25,7 +25,7 @@ Busco sempre alinhar tecnologia com impacto real no negócio, criando experiênc
   
   ###  Front-end
   <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents,mui" />
 
   </div>
   
@@ -33,13 +33,6 @@ Busco sempre alinhar tecnologia com impacto real no negócio, criando experiênc
   
    <div>
     <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,python" />
-  </div>
-  
-  ### Estudando
-  
-   <div>
-      <img src="https://skillicons.dev/icons?i=nextjs,nodejs,aws,jest,c#" />
-
   </div>
   
   <br>
