@@ -32,7 +32,7 @@ Busco sempre alinhar tecnologia com impacto real no negócio, criando experiênc
   ### Back-end
   
    <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,postgres,python" />
   </div>
   
   <br>
